@@ -4,6 +4,10 @@ A collection of conv net implementations and descriptions
 
 The nets in this project are based upon the following papers
 
+## Status
+
+This is very much a WIP and will be updated very (very) slowly
+
 ## image recognition
 
 http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
